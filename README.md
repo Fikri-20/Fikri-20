@@ -9,7 +9,7 @@
 
 <br/>
 
-Backend-focused engineer with experience in Python, TypeScript, and distributed systems. I contribute to open-source security and infrastructure tooling, and I'm interested in AI-integrated developer tools.
+Co-founder & full-stack engineer at **Innova**, building internal systems and content infrastructure. Also building **ProdHub** — a cross-platform productivity and tracking app. I contribute to open-source security and infrastructure tooling.
 
 ---
 
@@ -24,6 +24,13 @@ Backend-focused engineer with experience in Python, TypeScript, and distributed 
 **Tooling** · Docker · Git · Linux
 
 ---
+
+### Building
+
+| Project | Description |
+|---------|-------------|
+| Innova Content Pipeline | Internal content automation system @ Innova |
+| [ProdHub](https://github.com/Fikri-20/ProdHub) | Cross-platform productivity & tracking app |
 
 ### Open Source
 
