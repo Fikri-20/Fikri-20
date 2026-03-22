@@ -9,7 +9,9 @@
 
 <br/>
 
-Co-founder & full-stack engineer at **Innova**, building internal systems and content infrastructure. Also building **ProdHub** — a cross-platform productivity and tracking app. I contribute to open-source security and infrastructure tooling.
+- Co-founder & full-stack engineer at **Innova**
+- Building **ProdHub** — a cross-platform productivity & tracking app
+- Open-source contributor in security and infrastructure tooling
 
 ---
 
