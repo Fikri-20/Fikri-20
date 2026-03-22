@@ -27,19 +27,15 @@ Co-founder & full-stack engineer at **Innova**, building internal systems and co
 
 ### Building
 
-| Project | Description |
-|---------|-------------|
-| Innova Content Pipeline | Internal content automation system @ Innova |
-| [ProdHub](https://github.com/Fikri-20/ProdHub) | Cross-platform productivity & tracking app |
+- **Innova Content Pipeline** — internal content automation system @ Innova
+- **[ProdHub](https://github.com/Fikri-20/ProdHub)** — cross-platform productivity & tracking app
 
 ### Open Source
 
-| Project | Org | Description |
-|---------|-----|-------------|
-| [IntelOwl](https://github.com/intelowlproject/IntelOwl) | Honeynet | Threat intelligence platform — analyzer cleanup & migration fixes |
-| [Vorta](https://github.com/borgbase/vorta) | Borg | Backup desktop client — UI improvements & keyboard shortcuts |
-| [GreedyBear](https://github.com/intelowlproject/GreedyBear) | Honeynet | Honeypot threat feed — bug fixes & frontend features |
-| [pg_ai_query](https://github.com/benodiwal/pg_ai_query) | Community | PostgreSQL extension for natural language to SQL via AI |
+- **[IntelOwl](https://github.com/intelowlproject/IntelOwl)** — threat intelligence platform · analyzer cleanup & migration fixes
+- **[Vorta](https://github.com/borgbase/vorta)** — backup desktop client · UI improvements & keyboard shortcuts
+- **[GreedyBear](https://github.com/intelowlproject/GreedyBear)** — honeypot threat feed · bug fixes & frontend features
+- **[pg_ai_query](https://github.com/benodiwal/pg_ai_query)** — PostgreSQL extension for natural language to SQL via AI
 
 ---
 
