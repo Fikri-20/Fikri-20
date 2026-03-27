@@ -16,17 +16,23 @@
 
 ---
 
-### Stack
+### Tech Stack
 
-**Languages** · Python · TypeScript · JavaScript
-
-**Web** · React · Next.js · Node.js · FastAPI
-
-**Data** · PostgreSQL · SQLite · MongoDB
-
-**AI/ML** · Ollama · LangChain · lm-eval · HuggingFace
-
-**Tooling** · Docker · Git · Linux · CI/CD
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-FF6B35?style=for-the-badge&logo=ollama&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 ---
 
@@ -39,7 +45,6 @@ Java/Python tooling for modernizing Jenkins plugins
 - ✅ **#1655** - Use except Exception instead of bare except
 - ✅ **#1656** - Handle invalid JSON files gracefully in consolidate and generate scripts
 - ✅ **#1658** - Add Ruff linter CI for Python scripts
-- 🟡 **#1659** - fix: sanitize JDK metadata to prevent null values
 
 #### Honeynet Security Stack
 Threat intelligence & honeypot tooling
@@ -60,14 +65,12 @@ AI-powered API client built with Flutter
   - Support for OpenAI, Anthropic, Gemini, Ollama, OpenRouter
   - lm-eval harness integration for GSM8K, HumanEval, MBPP benchmarks
   - Text, image, and audio modality support
-  - Live demo: [jenkins-plugin-modernizer-stats](https://fikri-20.github.io/jenkins-plugin-modernizer-stats/)
 
 ---
 
 ### Projects
 
 - **[ProdHub](https://github.com/Fikri-20/ProdHub)** — Cross-platform productivity & tracking app
-- **[jenkins-plugin-modernizer-stats](https://fikri-20.github.io/jenkins-plugin-modernizer-stats/)** — Jenkins plugin modernization analytics dashboard
 - **[apidash](https://github.com/Fikri-20/apidash)** — Fork of API Dash with multimodal eval framework (WIP)
 
 ---
