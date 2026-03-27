@@ -30,7 +30,3 @@
 
 - **[ProdHub](https://github.com/Fikri-20/ProdHub)** — Cross-platform productivity & tracking app
 - **Innova Content Pipeline** — Internal content processing pipeline (private)
-
----
-
-*🎯 GSoC 2026 Applicant — Targeting API Dash (Multimodal AI & Agent Eval Framework)*
