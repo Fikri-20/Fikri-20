@@ -8,13 +8,6 @@
   <a href="mailto:dev.fikrii@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
-<br/>
-
-- Co-founder & full-stack engineer at **Innova**
-- Building **ProdHub** — a cross-platform productivity & tracking app
-- Open-source contributor in security, CI/CD, and AI/ML tooling
-- Writing about software, systems, and AI at **[fikrii.me](https://fikrii.me)**
-
 ---
 
 ## 🛠️ Languages and Tools
