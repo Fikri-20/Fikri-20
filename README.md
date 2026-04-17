@@ -16,20 +16,3 @@
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,fastapi,nodejs,docker,git,linux,postgresql,sqlite,mongodb" />
 </p>
 
----
-
-## 🔗 Projects
-
-| Project | Description |
-| --- | --- |
-| **[ProdHub](https://github.com/Fikri-20/ProdHub)** | Cross-platform productivity & tracking app |
-| **[Innova Content Pipeline](https://github.com/Fikri-20/Innova-Content-Pipeline)** | Internal content processing pipeline |
-| **[jenkins-plugin-modernizer-stats](https://github.com/Fikri-20/jenkins-plugin-modernizer-stats)** | Jenkins plugin modernization coverage stats |
-
----
-
-## ✍️ Latest from the Blog
-
-- **[My AI Workflow Journey: From Claude Pro to a Multi-Model Stack](https://fikrii.me/ai-workflow)** — How I evolved from Claude Pro to a multi-model setup using GLM-5, Minimax, and more.
-
-→ **[Read more at fikrii.me](https://fikrii.me)**
